@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+oauth2client
+pandas
+gspread
+backoff
+playwright
